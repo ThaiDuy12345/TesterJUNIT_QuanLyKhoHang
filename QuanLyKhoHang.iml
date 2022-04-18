@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/dist/lib/AbsoluteLayout.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/dist/lib/activation.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/dist/lib/CLabel.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/dist/lib/javax.mail.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/dist/lib/jcalendar-1.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/dist/lib/jcommon-1.0.23.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/dist/lib/jfreechart-1.0.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/dist/lib/KGradientPanel.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/dist/lib/sqljdbc42.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/dist/QuanLyKhoHang.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/AbsoluteLayout.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/activation.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/bridj-0.6.2-windows-only.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/CLabel.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/core-3.3.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/javase-3.3.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/javax.mail.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jcalendar-1.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jcommon-1.0.23.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jfreechart-1.0.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/KGradientPanel.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/log4j-1.2.17.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/slf4j-api-1.6.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/slf4j-log4j12-1.6.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/sqljdbc42.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/twilio-8.8.0-jar-with-dependencies.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/webcam-capture-0.3.12.jar!/" />
+    <src_description expected_position="1">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="1" />
+      <src_folder value="file://$MODULE_DIR$/test" expected_position="2" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/build/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="AbsoluteLayout.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/dist/lib/AbsoluteLayout.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="activation.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/dist/lib/activation.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="CLabel.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/dist/lib/CLabel.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.mail.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/dist/lib/javax.mail.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jcalendar-1.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/dist/lib/jcalendar-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jcommon-1.0.23.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/dist/lib/jcommon-1.0.23.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jfreechart-1.0.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/dist/lib/jfreechart-1.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="KGradientPanel.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/dist/lib/KGradientPanel.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sqljdbc42.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/dist/lib/sqljdbc42.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="QuanLyKhoHang.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/dist/QuanLyKhoHang.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="lib/AbsoluteLayout.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/AbsoluteLayout.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="lib/activation.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/activation.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bridj-0.6.2-windows-only.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/bridj-0.6.2-windows-only.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="lib/CLabel.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CLabel.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="core-3.3.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/core-3.3.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javase-3.3.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/javase-3.3.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="lib/javax.mail.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/javax.mail.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="lib/jcalendar-1.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jcalendar-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="lib/jcommon-1.0.23.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jcommon-1.0.23.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="lib/jfreechart-1.0.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jfreechart-1.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="lib/KGradientPanel.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/KGradientPanel.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-api-1.6.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/slf4j-api-1.6.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-log4j12-1.6.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/slf4j-log4j12-1.6.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="lib/sqljdbc42.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/sqljdbc42.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="twilio-8.8.0-jar-with-dependencies.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/twilio-8.8.0-jar-with-dependencies.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="webcam-capture-0.3.12.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/webcam-capture-0.3.12.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/poi-5.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/log4j-api-2.17.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/poi-ooxml-5.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/log4j-core-2.17.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/xmlbeans-5.0.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-collections4-4.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-compress-1.21.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/poi-ooxml-lite-5.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/junit-jupiter-api-5.8.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="JUnit4">
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/testng-7.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
